@@ -12,7 +12,7 @@ This tool uses Gemini Flash 2.5 (through `google-genai` library) and `pillow` to
 
 **Step 3: Set your Gemini API key in environment variables**  
 For Windows (Command Prompt): `set GEMINI_API_KEY=your_actual_key_here`  
-For Windows (Powershell): `$env:GEMINI_API_KEY="your_actual_key_here"`
+For Windows (Powershell): `$env:GEMINI_API_KEY="your_actual_key_here"`  
 For Mac/Linux: `export GEMINI_API_KEY="your_actual_key_here"`
 
 **Step 4: Put your input image in the root folder and rename it to image.png**  
