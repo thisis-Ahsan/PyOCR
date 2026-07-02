@@ -1,0 +1,5 @@
+# Google GenAI SDK for the Vision Engine API
+google-genai>=0.1.1
+
+# Pillow (PIL) for image file loading and handling
+Pillow>=10.0.0
